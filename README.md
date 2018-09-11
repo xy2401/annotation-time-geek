@@ -7,7 +7,7 @@
 
 [极客时间](https://time.geekbang.org/)
 
-[分享赏](https://time.geekbang.org/activity/sale-poster)
+[分享有赏](https://time.geekbang.org/activity/sale-poster)
 
 * [极客时间 | 玩转VS Code](https://time.geekbang.org/column/119)
 
