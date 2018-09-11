@@ -11,9 +11,9 @@
 
 * [极客时间 | 玩转VS Code](https://time.geekbang.org/column/119)
 
-    [介绍](119-intro.md) 
-    [海报 目录](119-content.md)   
-    [笔记](119.md)
+    [介绍](content/119-intro.md) 
+    [海报 目录](content/119-content.md)   
+    [笔记](content/119.md)
 
 * [极客时间 | 微服务架构核心20讲](https://time.geekbang.org/course/intro/66)
 

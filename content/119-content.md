@@ -1,6 +1,6 @@
 
 
-![sale-poster](img/119-sale-poster.jpg)
+![sale-poster](../img/119-sale-poster.jpg)
 
-![content](img/119-content.jpg)
+![content](../img/119-content.jpg)
 
