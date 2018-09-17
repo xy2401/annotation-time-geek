@@ -105,3 +105,9 @@
     [介绍](content/85-intro.md) 
     [海报 目录](content/85-content.md)   
     [笔记](content/85.md)
+
+* [ 数据结构与算法之美](https://time.geekbang.org/column/126)
+
+    [介绍](content/126-intro.md) 
+    [海报 目录](content/126-content.md)   
+    [笔记](content/126.md)
